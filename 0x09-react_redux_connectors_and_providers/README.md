@@ -5,8 +5,8 @@
 |By: Johann Kerbrat, Engineering Manager at Uber Works|
 |:--|
 |Weight: 1|
-|Project will start Mar 2, 2023 6:00 AM, must end by Mar 9, 2023 6:00 AM|
-|Checker was released at Mar 4, 2023 12:00 AM|
+|Project will start May 9, 2024 6:00 AM, must end by May 16, 2024 6:00 AM|
+|Checker was released at May 11, 2023 12:00 AM|
 |Manual QA review must be done (request it when you are done with the project)|
 |An auto review will be launched at the deadline|
 
